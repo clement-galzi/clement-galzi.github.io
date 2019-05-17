@@ -4,16 +4,16 @@
     margin-top: 60px;
 }
 
+.mail{
+    margin-top : 10px;
+}
+
 .material-icons.md-35{
     font-size: 35px;
 }
 
 .carte2{
     text-align: center;
-}
-
-.phone{
-    margin-left: 50px;
 }
 
 .icon_contact{
@@ -67,4 +67,15 @@ body {
 
 .bouton {
     margin-top: 10px;
+}
+
+@media (min-width:369px){
+    .phone{
+        margin-left: 50px;
+    }
+}
+@media (max-width:369px){
+    .phone{
+        margin-top: 10px;
+    }
 }
