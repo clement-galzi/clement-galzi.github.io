@@ -1,0 +1,70 @@
+.avatar{
+    width: 100%;
+    border-radius: 50px;
+    margin-top: 60px;
+}
+
+.material-icons.md-35{
+    font-size: 35px;
+}
+
+.carte2{
+    text-align: center;
+}
+
+.phone{
+    margin-left: 50px;
+}
+
+.icon_contact{
+    margin-right: 15px;
+}
+
+.social-icons li {
+    display: inline-block;
+    padding: 0px 9px;
+}
+
+.info p {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 20px !important;
+}
+
+.info ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.profile-title {
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 8px;
+}
+
+h6 {
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.button {
+    margin : 5%;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.imageKarate {
+    width: 23.5px;
+    height: 23.5px;
+}
+
+.bouton {
+    margin-top: 10px;
+}
